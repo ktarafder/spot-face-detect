@@ -1,0 +1,16 @@
+//These are the libraries required (installed using pip)//
+
+cmake
+
+dlib
+
+face-recognition (auth: Adam Geitgey, github.com/ageitgey/face_recognition)
+
+cvzone (auth: Murtaza Hassan, github.com/cvzone/cvzone)
+
+opencv-python
+
+pickle
+
+numpy
+
